@@ -1,5 +1,31 @@
+.center-text,
+.main-heading,
+.nostyle-list li,
+div.center-image{
+    text-align: center;
+}
+
+
+
 .main-heading{
     background-color: aquamarine;
-    text-align: center;
     
 }
+
+.nostyle-list{
+    list-style: none;
+    padding-left: 0%;
+}
+
+.nostyle-list li {
+    margin-bottom: 1%;
+}
+.nostyle-list a {
+    text-decoration: none;
+    
+}
+
+
+
+
+

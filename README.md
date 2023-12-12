@@ -3,7 +3,6 @@ In this project, I will make a website that will link to various recipes using p
 
 Skills Developed:
 - Using Paths
-- Using Links
 - Using Lists
 - Structuring HTML Files
 - Building Confidence using HTML.

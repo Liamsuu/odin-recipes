@@ -17,12 +17,13 @@ div.center-image{
     padding-left: 0%;
 }
 
-.nostyle-list li {
-    margin-bottom: 1%;
-}
 .nostyle-list a {
     text-decoration: none;
     
+}
+
+.lower-list li{
+    margin-bottom: 1%;
 }
 
 

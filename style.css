@@ -1,11 +1,21 @@
 .center-text,
 .main-heading,
-.nostyle-list li,
-div.center-image{
+.nostyle-list li
+{
     text-align: center;
 }
 
 
+.center-image{
+    display: block;
+    margin: 0 auto;
+}
+
+#lasagna-image-size, 
+#pizza-image-size,
+#bolognese-image-size{
+    max-width: 50%;
+}
 
 .main-heading{
     background-color: aquamarine;

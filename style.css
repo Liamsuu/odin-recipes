@@ -37,6 +37,7 @@
     margin: 0 auto;
     background-color:bisque;
     padding: 2%;
+    border: 3px solid rgb(173, 152, 94);
 }
 
 .nostyle-list{

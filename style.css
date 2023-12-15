@@ -42,7 +42,7 @@
     margin: 0 auto;
 }
 
-.ingredient-wrapper, step-wrapper{
+.ingredient-wrapper, .step-wrapper{
     max-width: fit-content;
     margin: 0 auto;
 }
@@ -51,7 +51,7 @@
     text-align: center;
 }
 
-.ingredient-wrapper li{
+.ingredient-wrapper li, .step-wrapper{
     list-style: none;
 }
 
